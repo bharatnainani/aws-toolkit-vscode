@@ -6,7 +6,7 @@ RUN apt-get update && apt-get -y upgrade && apt-get -y install xvfb \
     gnupg \
     curl \
     libxss1 \
-    libgconf2-4 \
+    libgconf-2-4 \
     libnss3 \
     libasound2 
 
